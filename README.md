@@ -2,4 +2,4 @@
 
 - 🔨 I’m currently working on Fivem
 - 💼 I'm a Lua / Python developer 
-- 🔎 I’m currently learning C / C++ / C#
+- 🔎 I’m currently learning C / TypeScript / C#
