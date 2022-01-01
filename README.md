@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akyjojox
 
 - 🔨 I'm currently working on a bot in C language
-- 📫 How to contact me: Akyjojox#1868
+- 📫 How to contact me: Akyjojox#7245
 
 ## Most Used Languages
 
